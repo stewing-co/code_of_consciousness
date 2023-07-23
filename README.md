@@ -1,1 +1,1 @@
-# codes_of_consciousness
+# code_of_consciousness
